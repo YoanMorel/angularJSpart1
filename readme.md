@@ -6,7 +6,7 @@
 Dans le fichier html fourni, placer **ng-app** pour qu'AngularJS fonctionne dans tout le document.
 
 ## Exercice 2
-Dans le fichier html fourni, placer **ng-app** pour qu'AngularJS fonctionne uniquement dans la div **calcul**.
+Dans le fichier html fourni, placer **ng-app** pour qu'AngularJS fonctionne uniquement dans la div **sum**.
 
 ## Exercice 3
 Dans le fichier html fourni, placer **ng-app** pour qu'AngularJS fonctionne uniquement après le h1.
